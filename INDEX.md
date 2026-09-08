@@ -19,3 +19,9 @@
 | slug | 标题 | tags |
 |---|---|---|
 | [shot-continuity-over-editing-tricks](exp/video-director/shot-continuity-over-editing-tricks.md) | 关键动作转折不能用硬切省掉，连贯性优先于剪辑技巧 | 分镜, 连贯性, 硬切, 过渡镜, 返工 |
+
+## video-editor
+
+| slug | 标题 | tags |
+|---|---|---|
+| [wan3-first-frame-vs-reference-exclusive](exp/video-editor/wan3-first-frame-vs-reference-exclusive.md) | 万相 wan3.0 的 first_frame 与 reference_image 互斥，按镜头二选一 | wan3.0, first_frame, reference_image, 互斥, 比例, 免费额度 |
