@@ -25,3 +25,9 @@
 | slug | 标题 | tags |
 |---|---|---|
 | [wan3-first-frame-vs-reference-exclusive](exp/video-editor/wan3-first-frame-vs-reference-exclusive.md) | 万相 wan3.0 的 first_frame 与 reference_image 互斥，按镜头二选一 | wan3.0, first_frame, reference_image, 互斥, 比例, 免费额度 |
+
+## video-audience
+
+| slug | 标题 | tags |
+|---|---|---|
+| [frame-extraction-qc-protocol](exp/video-audience/frame-extraction-qc-protocol.md) | 抽帧质检要先三帧粗筛再密抽，人脸必须与同角度定妆照对比 | 抽帧, 质检, ffmpeg, 一致性, 转场 |
