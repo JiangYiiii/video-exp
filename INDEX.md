@@ -2,6 +2,12 @@
 
 由 `video-exp reindex` 自动生成，不要手改。
 
+## video-writer
+
+| slug | 标题 | tags |
+|---|---|---|
+| [no-emotion-metaphors-in-prompt](exp/video-writer/no-emotion-metaphors-in-prompt.md) | 剧本里的情绪比喻会被模型字面执行，必须改写成可拍摄的生理反应 | 台词, 情绪, 比喻, 负面词, 红眼睛 |
+
 ## video-costume
 
 | slug | 标题 | tags |
