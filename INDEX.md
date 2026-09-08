@@ -2,6 +2,12 @@
 
 由 `video-exp reindex` 自动生成，不要手改。
 
+## video-costume
+
+| slug | 标题 | tags |
+|---|---|---|
+| [multi-angle-refs-required](exp/video-costume/multi-angle-refs-required.md) | 定妆照必须出正面/45°/正侧三档，只有正面会导致侧拍镜头人物不像 | 定妆照, 侧脸, 多角度, 一致性, reference_image |
+
 ## video-director
 
 | slug | 标题 | tags |
