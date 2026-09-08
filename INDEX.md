@@ -18,6 +18,7 @@
 
 | slug | 标题 | tags |
 |---|---|---|
+| [prop-handoff-becomes-static-result](exp/video-director/prop-handoff-becomes-static-result.md) | 道具交接必崩，改成只拍静止结果；交接是手势不是转折，可以省 | 道具, 交接, 校验门槛, 连贯性边界, 插入镜 |
 | [shot-continuity-over-editing-tricks](exp/video-director/shot-continuity-over-editing-tricks.md) | 关键动作转折不能用硬切省掉，连贯性优先于剪辑技巧 | 分镜, 连贯性, 硬切, 过渡镜, 返工 |
 
 ## video-editor
