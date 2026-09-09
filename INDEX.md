@@ -30,6 +30,7 @@
 
 | slug | 标题 | tags |
 |---|---|---|
+| [bvid-args-via-subprocess-not-shell](exp/video-editor/bvid-args-via-subprocess-not-shell.md) | 批量提交 bvid 要用 subprocess 传参数列表，shell 变量展开会被 argparse 顶层吞掉 | bvid, 并行提交, shell分词, argparse, 批量生成, 踩坑 |
 | [face-fidelity-degrades-with-person-count](exp/video-editor/face-fidelity-degrades-with-person-count.md) | 多人帧的人脸保真度随人数下降且越靠后越差；wan3.0 轮询断线要 bvid get 续拉别重提，输入首帧会被内容审核拦 | 身份平均化, input_fidelity, 多人帧, 轮询断线, DataInspectionFailed, 重复扣费 |
 | [first-frame-mode-drift-root-cause-is-the-keyframe](exp/video-editor/first-frame-mode-drift-root-cause-is-the-keyframe.md) | 首帧模式下的漂移根因一定在首帧本身，改视频 prompt 是白改；关键帧质检必须看原图不能看缩略拼图 | first_frame, 首帧模式, 发型漂移, 根因判断, 关键帧质检, 重抽, 白花钱 |
 | [intimate-shots-route-to-dreamina](exp/video-editor/intimate-shots-route-to-dreamina.md) | 亲密镜头的关键帧必须走即梦，gpt-image-2 网关硬拦；视频 prompt 不要再描述亲密动作 | 内容审核, 亲密镜头, 即梦, gpt-image-2, 平台分工, 局部特写 |
