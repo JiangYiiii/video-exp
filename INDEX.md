@@ -6,6 +6,7 @@
 
 | slug | 标题 | tags |
 |---|---|---|
+| [character-voice-anchor-required](exp/video-writer/character-voice-anchor-required.md) | 带 TTS 的引擎必须在剧本阶段给每个角色标注声音特色，否则同性角色全是同一把默认声 | 声音, 音色, TTS, 人物设定, 一致性锚点 |
 | [no-emotion-metaphors-in-prompt](exp/video-writer/no-emotion-metaphors-in-prompt.md) | 剧本里的情绪比喻会被模型字面执行，必须改写成可拍摄的生理反应 | 台词, 情绪, 比喻, 负面词, 红眼睛 |
 
 ## video-costume
