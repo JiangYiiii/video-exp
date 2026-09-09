@@ -13,6 +13,7 @@
 
 | slug | 标题 | tags |
 |---|---|---|
+| [framing-rule-needs-measurable-anchor](exp/video-costume/framing-rule-needs-measurable-anchor.md) | 统一取景规则必须给可判定的物理锚点，"七分身"这类词模型会各自发挥 | 定妆照, 取景规则, 头身比, 多角色, 一致性, prompt写法 |
 | [multi-angle-refs-required](exp/video-costume/multi-angle-refs-required.md) | 定妆照必须出正面/45°/正侧三档，只有正面会导致侧拍镜头人物不像 | 定妆照, 侧脸, 多角度, 一致性, reference_image |
 | [trio-base-first-then-derive-individuals](exp/video-costume/trio-base-first-then-derive-individuals.md) | 多人同框先出同一次生成的基准图，再反推个人定妆照，否则肤色和头身比必然对不上 | 定妆照, 多人同框, 肤色一致, 头身比, 取景规则, 拼贴感 |
 
