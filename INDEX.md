@@ -22,6 +22,7 @@
 |---|---|---|
 | [prop-handoff-becomes-static-result](exp/video-director/prop-handoff-becomes-static-result.md) | 道具交接必崩，改成只拍静止结果；交接是手势不是转折，可以省 | 道具, 交接, 校验门槛, 连贯性边界, 插入镜 |
 | [shot-continuity-over-editing-tricks](exp/video-director/shot-continuity-over-editing-tricks.md) | 关键动作转折不能用硬切省掉，连贯性优先于剪辑技巧 | 分镜, 连贯性, 硬切, 过渡镜, 返工 |
+| [split-shots-need-their-own-action](exp/video-director/split-shots-need-their-own-action.md) | 拆镜必须给每个新镜独立的动作目的，只拆构图会变成摆拍；且人越多脸越不像，情绪特写一律单人镜 | 拆镜, 摆拍, 动作目的, 静默镜, 每镜人数, 人脸保真 |
 
 ## video-editor
 
