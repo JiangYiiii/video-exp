@@ -49,4 +49,5 @@
 
 | slug | 标题 | tags |
 |---|---|---|
+| [real-face-passes-bailian-api](exp/video-reface/real-face-passes-bailian-api.md) | 真人脸在百炼 animate API 上放行，即梦/火山前置拦截；「真人脸只能本地 ComfyUI」是错的 | 换人, reface, 真人脸, 内容审核, DataInspectionFailed, 百炼, 即梦, 数字分身, 通道差异 |
 | [ref-framing-must-cover-video](exp/video-reface/ref-framing-must-cover-video.md) | 换人的参考图取景范围必须覆盖驱动视频，半身图会让模型瞎编下半身；取景比像素数重要得多 | 换人, reface, animate, 参考图取景, 全身照, 下半身, 瞎编, bvid swap, 单人要求 |
