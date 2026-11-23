@@ -44,3 +44,9 @@
 | slug | 标题 | tags |
 |---|---|---|
 | [frame-extraction-qc-protocol](exp/video-audience/frame-extraction-qc-protocol.md) | 抽帧质检要先三帧粗筛再密抽，人脸必须与同角度定妆照对比 | 抽帧, 质检, ffmpeg, 一致性, 转场 |
+
+## video-reface
+
+| slug | 标题 | tags |
+|---|---|---|
+| [ref-framing-must-cover-video](exp/video-reface/ref-framing-must-cover-video.md) | 换人的参考图取景范围必须覆盖驱动视频，半身图会让模型瞎编下半身；取景比像素数重要得多 | 换人, reface, animate, 参考图取景, 全身照, 下半身, 瞎编, bvid swap, 单人要求 |
